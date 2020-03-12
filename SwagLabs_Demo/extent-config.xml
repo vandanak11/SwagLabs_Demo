@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <theme>dark</theme>
+    <encoding>UTF-8</encoding>
+    <protocol>https</protocol>
+    <documentTitle>Report</documentTitle>
+    <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+    <reportName>Swag Labs - Demo</reportName>
+    <testViewChartLocation>bottom</testViewChartLocation>
+  </configuration>
+</extentreports>
